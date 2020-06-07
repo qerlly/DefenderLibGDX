@@ -1,0 +1,47 @@
+minotaurs_atlas.png
+size: 2044, 1918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+minotaur_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 317, 1916
+  orig: 317, 1916
+  offset: 0, 0
+  index: -1
+minotaur_default_run
+  rotate: false
+  xy: 320, 1
+  size: 370, 1883
+  orig: 370, 1883
+  offset: 0, 0
+  index: -1
+minotaur_high_attack
+  rotate: false
+  xy: 692, 1
+  size: 305, 1916
+  orig: 305, 1916
+  offset: 0, 0
+  index: -1
+minotaur_high_run
+  rotate: false
+  xy: 999, 1
+  size: 359, 1916
+  orig: 359, 1916
+  offset: 0, 0
+  index: -1
+minotaur_medium_attack
+  rotate: false
+  xy: 1360, 1
+  size: 306, 1916
+  orig: 306, 1916
+  offset: 0, 0
+  index: -1
+minotaur_medium_run
+  rotate: false
+  xy: 1668, 1
+  size: 375, 1916
+  orig: 375, 1916
+  offset: 0, 0
+  index: -1

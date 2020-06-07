@@ -1,0 +1,19 @@
+flyings_atlas.png
+size: 879, 930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flying_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 877, 558
+  orig: 877, 558
+  offset: 0, 0
+  index: -1
+flying_high_attack
+  rotate: false
+  xy: 1, 561
+  size: 797, 368
+  orig: 797, 368
+  offset: 0, 0
+  index: -1

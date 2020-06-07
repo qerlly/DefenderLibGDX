@@ -1,0 +1,59 @@
+orcs_atlas-0.png
+size: 1946, 1405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orc_default_run
+  rotate: false
+  xy: 1, 1
+  size: 1944, 324
+  orig: 1944, 324
+  offset: 0, 0
+  index: -1
+orc_high_run
+  rotate: false
+  xy: 1, 327
+  size: 690, 1077
+  orig: 690, 1077
+  offset: 0, 0
+  index: -1
+orc_medium_run
+  rotate: false
+  xy: 693, 327
+  size: 690, 1035
+  orig: 690, 1035
+  offset: 0, 0
+  index: -1
+
+orcs_atlas-1.png
+size: 1384, 1382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orc_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 690, 1380
+  orig: 690, 1380
+  offset: 0, 0
+  index: -1
+orc_medium_attack
+  rotate: false
+  xy: 693, 1
+  size: 690, 1380
+  orig: 690, 1380
+  offset: 0, 0
+  index: -1
+
+orcs_atlas-2.png
+size: 692, 1438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orc_high_attack
+  rotate: false
+  xy: 1, 1
+  size: 690, 1436
+  orig: 690, 1436
+  offset: 0, 0
+  index: -1

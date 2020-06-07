@@ -1,0 +1,38 @@
+items_atlas-0.png
+size: 1718, 1289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+copper_coin
+  rotate: false
+  xy: 1, 1
+  size: 1716, 1287
+  orig: 1716, 1287
+  offset: 0, 0
+  index: -1
+
+items_atlas-1.png
+size: 1718, 1289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold_coin
+  rotate: false
+  xy: 1, 1
+  size: 1716, 1287
+  orig: 1716, 1287
+  offset: 0, 0
+  index: -1
+
+items_atlas-2.png
+size: 1718, 1289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silver_coin
+  rotate: false
+  xy: 1, 1
+  size: 1716, 1287
+  orig: 1716, 1287
+  offset: 0, 0
+  index: -1

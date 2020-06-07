@@ -1,0 +1,47 @@
+goblins_atlas-0.png
+size: 704, 977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+goblin_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 660, 155
+  orig: 660, 155
+  offset: 0, 0
+  index: -1
+goblin_default_run
+  rotate: false
+  xy: 1, 158
+  size: 640, 163
+  orig: 640, 163
+  offset: 0, 0
+  index: -1
+goblin_high_attack
+  rotate: false
+  xy: 1, 323
+  size: 685, 154
+  orig: 685, 154
+  offset: 0, 0
+  index: -1
+goblin_high_run
+  rotate: false
+  xy: 1, 479
+  size: 658, 165
+  orig: 658, 165
+  offset: 0, 0
+  index: -1
+goblin_medium_attack
+  rotate: false
+  xy: 1, 646
+  size: 702, 154
+  orig: 702, 154
+  offset: 0, 0
+  index: -1
+goblin_medium_run
+  rotate: false
+  xy: 1, 802
+  size: 681, 174
+  orig: 681, 174
+  offset: 0, 0
+  index: -1

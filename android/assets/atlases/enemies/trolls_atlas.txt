@@ -1,0 +1,53 @@
+trolls_atlas-0.png
+size: 1483, 1454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+troll_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 788, 1368
+  orig: 788, 1368
+  offset: 0, 0
+  index: -1
+troll_default_run
+  rotate: false
+  xy: 791, 1
+  size: 344, 1398
+  orig: 344, 1398
+  offset: 0, 0
+  index: -1
+troll_high_run
+  rotate: false
+  xy: 1137, 1
+  size: 345, 1452
+  orig: 345, 1452
+  offset: 0, 0
+  index: -1
+
+trolls_atlas-1.png
+size: 2000, 1620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+troll_high_attack
+  rotate: false
+  xy: 1, 1
+  size: 790, 1368
+  orig: 790, 1368
+  offset: 0, 0
+  index: -1
+troll_medium_attack
+  rotate: false
+  xy: 793, 1
+  size: 804, 1356
+  orig: 804, 1356
+  offset: 0, 0
+  index: -1
+troll_medium_run
+  rotate: false
+  xy: 1, 1371
+  size: 1998, 248
+  orig: 1998, 248
+  offset: 0, 0
+  index: -1

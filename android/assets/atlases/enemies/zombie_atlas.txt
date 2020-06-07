@@ -1,0 +1,47 @@
+zombie_atlas.png
+size: 1582, 2041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 1566, 331
+  orig: 1566, 331
+  offset: 0, 0
+  index: -1
+zombie_default_run
+  rotate: false
+  xy: 1, 334
+  size: 1562, 370
+  orig: 1562, 370
+  offset: 0, 0
+  index: -1
+zombie_high_attack
+  rotate: false
+  xy: 1, 706
+  size: 1575, 324
+  orig: 1575, 324
+  offset: 0, 0
+  index: -1
+zombie_high_run
+  rotate: false
+  xy: 1, 1032
+  size: 1575, 310
+  orig: 1575, 310
+  offset: 0, 0
+  index: -1
+zombie_medium_attack
+  rotate: false
+  xy: 1, 1344
+  size: 1580, 327
+  orig: 1580, 327
+  offset: 0, 0
+  index: -1
+zombie_medium_run
+  rotate: false
+  xy: 1, 1673
+  size: 1580, 367
+  orig: 1580, 367
+  offset: 0, 0
+  index: -1

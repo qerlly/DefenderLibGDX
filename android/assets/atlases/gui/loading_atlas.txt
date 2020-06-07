@@ -1,0 +1,33 @@
+loading_atlas-0.png
+size: 1825, 1488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading_title
+  rotate: false
+  xy: 1, 1
+  size: 1227, 127
+  orig: 1536, 223
+  offset: 154, 46
+  index: -1
+loadscreen_bacground
+  rotate: false
+  xy: 1, 130
+  size: 1823, 1080
+  orig: 1823, 1080
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 1, 1212
+  size: 1433, 50
+  orig: 1433, 50
+  offset: 0, 0
+  index: -1
+progress_bar
+  rotate: false
+  xy: 1, 1264
+  size: 1536, 223
+  orig: 1536, 223
+  offset: 0, 0
+  index: -1

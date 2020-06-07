@@ -1,0 +1,47 @@
+elementals_atlas.png
+size: 1984, 1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+elemental_default_attack
+  rotate: false
+  xy: 1, 991
+  size: 822, 738
+  orig: 822, 738
+  offset: 0, 0
+  index: -1
+elemental_default_run
+  rotate: false
+  xy: 1, 1
+  size: 985, 232
+  orig: 985, 232
+  offset: 0, 0
+  index: -1
+elemental_high_attack
+  rotate: false
+  xy: 825, 991
+  size: 819, 780
+  orig: 819, 780
+  offset: 0, 0
+  index: -1
+elemental_high_run
+  rotate: false
+  xy: 988, 1
+  size: 995, 243
+  orig: 995, 243
+  offset: 0, 0
+  index: -1
+elemental_medium_attack
+  rotate: false
+  xy: 1026, 246
+  size: 816, 743
+  orig: 816, 743
+  offset: 0, 0
+  index: -1
+elemental_medium_run
+  rotate: false
+  xy: 1, 246
+  size: 1023, 241
+  orig: 1023, 241
+  offset: 0, 0
+  index: -1

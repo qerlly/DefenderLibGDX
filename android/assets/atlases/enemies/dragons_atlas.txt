@@ -1,0 +1,47 @@
+dragons_atlas.png
+size: 1644, 1906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 506, 1167
+  orig: 506, 1167
+  offset: 0, 0
+  index: -1
+dragon_default_run
+  rotate: false
+  xy: 1, 1178
+  size: 1629, 241
+  orig: 1629, 241
+  offset: 0, 0
+  index: -1
+dragon_high_attack
+  rotate: false
+  xy: 1020, 1
+  size: 511, 1175
+  orig: 511, 1175
+  offset: 0, 0
+  index: -1
+dragon_high_run
+  rotate: false
+  xy: 1, 1665
+  size: 1642, 240
+  orig: 1642, 240
+  offset: 0, 0
+  index: -1
+dragon_medium_attack
+  rotate: false
+  xy: 509, 1
+  size: 509, 1175
+  orig: 509, 1175
+  offset: 0, 0
+  index: -1
+dragon_medium_run
+  rotate: false
+  xy: 1, 1421
+  size: 1633, 242
+  orig: 1633, 242
+  offset: 0, 0
+  index: -1

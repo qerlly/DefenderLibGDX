@@ -1,0 +1,107 @@
+effects_atlas-0.png
+size: 1616, 1908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_smoke_explode
+  rotate: false
+  xy: 1, 1
+  size: 1614, 248
+  orig: 1614, 248
+  offset: 0, 0
+  index: -1
+purple_puff
+  rotate: false
+  xy: 1, 251
+  size: 1573, 715
+  orig: 1573, 715
+  offset: 0, 0
+  index: -1
+smoke_explode
+  rotate: false
+  xy: 1, 968
+  size: 1275, 510
+  orig: 1275, 510
+  offset: 0, 0
+  index: -1
+star_explode
+  rotate: false
+  xy: 1, 1480
+  size: 1581, 427
+  orig: 1581, 427
+  offset: 0, 0
+  index: -1
+
+effects_atlas-1.png
+size: 1575, 1434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_puff
+  rotate: false
+  xy: 1, 1
+  size: 1573, 715
+  orig: 1573, 715
+  offset: 0, 0
+  index: -1
+yellow_puff
+  rotate: false
+  xy: 1, 718
+  size: 1573, 715
+  orig: 1573, 715
+  offset: 0, 0
+  index: -1
+
+effects_atlas-2.png
+size: 1792, 1615
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_puff
+  rotate: false
+  xy: 1, 899
+  size: 1573, 715
+  orig: 1573, 715
+  offset: 0, 0
+  index: -1
+def_explode
+  rotate: false
+  xy: 1, 1
+  size: 358, 896
+  orig: 358, 896
+  offset: 0, 0
+  index: -1
+def_puff
+  rotate: false
+  xy: 361, 1
+  size: 1430, 715
+  orig: 1430, 715
+  offset: 0, 0
+  index: -1
+
+effects_atlas-3.png
+size: 1734, 1709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down_explode
+  rotate: false
+  xy: 1, 1
+  size: 354, 1522
+  orig: 354, 1522
+  offset: 0, 0
+  index: -1
+machine_explodetxt
+  rotate: false
+  xy: 357, 1
+  size: 674, 1347
+  orig: 674, 1347
+  offset: 0, 0
+  index: -1
+skeleton_explode
+  rotate: false
+  xy: 1033, 1
+  size: 700, 1707
+  orig: 700, 1707
+  offset: 0, 0
+  index: -1

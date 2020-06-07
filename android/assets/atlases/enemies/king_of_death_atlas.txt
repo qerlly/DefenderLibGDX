@@ -1,0 +1,52 @@
+king_of_death_atlas-0.png
+size: 1502, 1604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+king_attack
+  rotate: false
+  xy: 1, 1
+  size: 1500, 600
+  orig: 1500, 600
+  offset: 0, 0
+  index: -1
+king_die
+  rotate: false
+  xy: 1, 603
+  size: 1500, 1000
+  orig: 1500, 1000
+  offset: 0, 0
+  index: -1
+
+king_of_death_atlas-1.png
+size: 1502, 1604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+king_jump
+  rotate: false
+  xy: 1, 1
+  size: 1500, 800
+  orig: 1500, 800
+  offset: 0, 0
+  index: -1
+king_rise
+  rotate: false
+  xy: 1, 803
+  size: 1500, 800
+  orig: 1500, 800
+  offset: 0, 0
+  index: -1
+
+king_of_death_atlas-2.png
+size: 1502, 802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+king_run
+  rotate: false
+  xy: 1, 1
+  size: 1500, 800
+  orig: 1500, 800
+  offset: 0, 0
+  index: -1

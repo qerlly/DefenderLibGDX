@@ -1,0 +1,249 @@
+game_atlas-0.png
+size: 2000, 2014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_frame
+  rotate: false
+  xy: 1, 1
+  size: 1461, 1068
+  orig: 1461, 1068
+  offset: 0, 0
+  index: 1
+book_frame
+  rotate: false
+  xy: 1, 1071
+  size: 1274, 942
+  orig: 1274, 942
+  offset: 0, 0
+  index: 2
+button_check
+  rotate: true
+  xy: 1607, 1835
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_goright
+  rotate: true
+  xy: 1782, 1801
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+defeat_frame
+  rotate: false
+  xy: 1277, 1141
+  size: 503, 692
+  orig: 503, 692
+  offset: 0, 0
+  index: -1
+exit_title
+  rotate: false
+  xy: 1277, 1835
+  size: 328, 167
+  orig: 328, 167
+  offset: 0, 0
+  index: 1
+exit_title
+  rotate: true
+  xy: 1782, 1141
+  size: 328, 167
+  orig: 328, 167
+  offset: 0, 0
+  index: 2
+hp_bar
+  rotate: true
+  xy: 1951, 1141
+  size: 321, 48
+  orig: 321, 48
+  offset: 0, 0
+  index: -1
+input_frame
+  rotate: true
+  xy: 1464, 1
+  size: 1138, 524
+  orig: 1138, 524
+  offset: 0, 0
+  index: -1
+restart_title
+  rotate: true
+  xy: 1782, 1471
+  size: 328, 167
+  orig: 328, 167
+  offset: 0, 0
+  index: 2
+
+game_atlas-1.png
+size: 1421, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_check
+  rotate: false
+  xy: 1011, 171
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_goleft
+  rotate: false
+  xy: 1011, 341
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_goleft
+  rotate: false
+  xy: 600, 695
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_goright
+  rotate: true
+  xy: 600, 865
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_jump
+  rotate: false
+  xy: 1011, 511
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_jump
+  rotate: false
+  xy: 757, 695
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_music
+  rotate: false
+  xy: 1071, 681
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_music
+  rotate: true
+  xy: 770, 865
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_music
+  rotate: false
+  xy: 1110, 851
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 3
+button_pause
+  rotate: false
+  xy: 1167, 171
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_pause
+  rotate: false
+  xy: 914, 695
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_replay
+  rotate: false
+  xy: 1168, 1
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_replay
+  rotate: true
+  xy: 940, 865
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_sound
+  rotate: false
+  xy: 1167, 341
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 1
+button_sound
+  rotate: false
+  xy: 1011, 1
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: 2
+button_sound
+  rotate: false
+  xy: 1167, 511
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: 3
+defeat_survive_frame
+  rotate: false
+  xy: 1, 1
+  size: 503, 692
+  orig: 503, 692
+  offset: 0, 0
+  index: -1
+hp_bar_frame
+  rotate: true
+  xy: 508, 695
+  size: 293, 90
+  orig: 293, 90
+  offset: 0, 0
+  index: -1
+paused_frame
+  rotate: false
+  xy: 506, 1
+  size: 503, 692
+  orig: 503, 692
+  offset: 0, 0
+  index: -1
+restart_title
+  rotate: true
+  xy: 1, 695
+  size: 328, 167
+  orig: 328, 167
+  offset: 0, 0
+  index: 1
+resume_title
+  rotate: true
+  xy: 170, 695
+  size: 328, 167
+  orig: 328, 167
+  offset: 0, 0
+  index: 1
+resume_title
+  rotate: true
+  xy: 339, 695
+  size: 328, 167
+  orig: 328, 167
+  offset: 0, 0
+  index: 2
+star
+  rotate: true
+  xy: 1227, 681
+  size: 165, 154
+  orig: 165, 154
+  offset: 0, 0
+  index: 1
+star
+  rotate: true
+  xy: 1266, 848
+  size: 165, 154
+  orig: 165, 154
+  offset: 0, 0
+  index: 2

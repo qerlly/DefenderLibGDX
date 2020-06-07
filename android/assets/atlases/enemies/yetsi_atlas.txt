@@ -1,0 +1,80 @@
+yetsi_atlas-0.png
+size: 1652, 1658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yeti_default_jump
+  rotate: false
+  xy: 1, 1
+  size: 1650, 330
+  orig: 1650, 330
+  offset: 0, 0
+  index: -1
+yeti_high_jump
+  rotate: false
+  xy: 1, 333
+  size: 1650, 330
+  orig: 1650, 330
+  offset: 0, 0
+  index: -1
+yeti_medium_attack
+  rotate: false
+  xy: 1, 665
+  size: 1650, 660
+  orig: 1650, 660
+  offset: 0, 0
+  index: -1
+yeti_medium_jump
+  rotate: false
+  xy: 1, 1327
+  size: 1650, 330
+  orig: 1650, 330
+  offset: 0, 0
+  index: -1
+
+yetsi_atlas-1.png
+size: 1652, 1324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yeti_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 1650, 660
+  orig: 1650, 660
+  offset: 0, 0
+  index: -1
+yeti_high_attack
+  rotate: false
+  xy: 1, 663
+  size: 1650, 660
+  orig: 1650, 660
+  offset: 0, 0
+  index: -1
+
+yetsi_atlas-2.png
+size: 1986, 1322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yeti_default_run
+  rotate: false
+  xy: 1, 1
+  size: 660, 1320
+  orig: 660, 1320
+  offset: 0, 0
+  index: -1
+yeti_high_run
+  rotate: false
+  xy: 663, 1
+  size: 660, 1320
+  orig: 660, 1320
+  offset: 0, 0
+  index: -1
+yeti_medium_run
+  rotate: false
+  xy: 1325, 1
+  size: 660, 1320
+  orig: 660, 1320
+  offset: 0, 0
+  index: -1

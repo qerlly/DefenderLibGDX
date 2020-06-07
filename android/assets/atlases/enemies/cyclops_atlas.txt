@@ -1,0 +1,47 @@
+cyclops_atlas.png
+size: 1694, 1711
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cyclop_default_attack
+  rotate: false
+  xy: 1, 326
+  size: 842, 385
+  orig: 842, 385
+  offset: 0, 0
+  index: -1
+cyclop_default_run
+  rotate: false
+  xy: 853, 716
+  size: 208, 994
+  orig: 208, 994
+  offset: 0, 0
+  index: -1
+cyclop_high_attack
+  rotate: false
+  xy: 845, 326
+  size: 822, 388
+  orig: 822, 388
+  offset: 0, 0
+  index: -1
+cyclop_high_run
+  rotate: false
+  xy: 1, 1
+  size: 830, 298
+  orig: 830, 298
+  offset: 0, 0
+  index: -1
+cyclop_medium_attack
+  rotate: false
+  xy: 1, 716
+  size: 850, 414
+  orig: 850, 414
+  offset: 0, 0
+  index: -1
+cyclop_medium_run
+  rotate: false
+  xy: 833, 1
+  size: 860, 323
+  orig: 860, 323
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661015950951",
+    "firebase_url": "https://monsters-the-oak-defenders-688.firebaseio.com",
+    "project_id": "monsters-the-oak-defenders-688",
+    "storage_bucket": "monsters-the-oak-defenders-688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661015950951:android:64bd2a33776b51d8a886c2",
+        "android_client_info": {
+          "package_name": "com.dmtrdev.monsters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661015950951-ltp2um4jce1afp298c4tgeovcr53dokr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmtrdev.monsters",
+            "certificate_hash": "44fb688ad84434609914cbc9c431707c7515aa17"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYbOEJSuHNK2ShmjiJr16o2BjgxNON9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

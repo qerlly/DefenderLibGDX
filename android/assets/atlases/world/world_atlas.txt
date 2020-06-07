@@ -1,0 +1,32 @@
+world_atlas-0.png
+size: 1996, 1841
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1, 1
+  size: 1994, 1496
+  orig: 1994, 1496
+  offset: 0, 0
+  index: -1
+clouds
+  rotate: false
+  xy: 1, 1499
+  size: 1794, 341
+  orig: 2048, 1536
+  offset: 127, 1053
+  index: -1
+
+world_atlas-1.png
+size: 923, 732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree
+  rotate: false
+  xy: 1, 1
+  size: 921, 730
+  orig: 1000, 868
+  offset: 1, 46
+  index: -1

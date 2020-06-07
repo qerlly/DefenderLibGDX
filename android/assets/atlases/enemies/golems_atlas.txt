@@ -1,0 +1,60 @@
+golems_atlas-0.png
+size: 1810, 1478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+golem_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 906, 892
+  orig: 906, 892
+  offset: 0, 0
+  index: -1
+tantal_attack
+  rotate: false
+  xy: 909, 1
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: -1
+tantal_die
+  rotate: false
+  xy: 1, 903
+  size: 1598, 574
+  orig: 1598, 574
+  offset: 0, 0
+  index: -1
+
+golems_atlas-1.png
+size: 1913, 1859
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+golem_default_run
+  rotate: false
+  xy: 1, 1
+  size: 320, 1706
+  orig: 320, 1706
+  offset: 0, 0
+  index: -1
+golem_medium_attack
+  rotate: false
+  xy: 323, 1
+  size: 945, 937
+  orig: 945, 937
+  offset: 0, 0
+  index: -1
+golem_medium_run
+  rotate: false
+  xy: 1270, 1
+  size: 339, 1838
+  orig: 339, 1838
+  offset: 0, 0
+  index: -1
+tantal_run
+  rotate: false
+  xy: 1611, 1
+  size: 301, 1857
+  orig: 301, 1857
+  offset: 0, 0
+  index: -1

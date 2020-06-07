@@ -1,0 +1,33 @@
+animals_atlas.png
+size: 808, 1654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+earwing_attack
+  rotate: false
+  xy: 1, 1
+  size: 806, 574
+  orig: 806, 574
+  offset: 0, 0
+  index: -1
+earwing_run
+  rotate: false
+  xy: 1, 577
+  size: 806, 574
+  orig: 806, 574
+  offset: 0, 0
+  index: -1
+moose_charge
+  rotate: false
+  xy: 1, 1153
+  size: 658, 374
+  orig: 658, 374
+  offset: 0, 0
+  index: -1
+moose_die
+  rotate: false
+  xy: 1, 1529
+  size: 659, 124
+  orig: 659, 124
+  offset: 0, 0
+  index: -1

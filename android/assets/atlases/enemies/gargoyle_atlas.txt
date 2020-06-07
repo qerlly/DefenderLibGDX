@@ -1,0 +1,47 @@
+gargoyle_atlas.png
+size: 2041, 1521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gargoyle_default_attack
+  rotate: false
+  xy: 1, 1
+  size: 350, 1519
+  orig: 350, 1519
+  offset: 0, 0
+  index: -1
+gargoyle_default_run
+  rotate: false
+  xy: 353, 1
+  size: 359, 1515
+  orig: 359, 1515
+  offset: 0, 0
+  index: -1
+gargoyle_high_attack
+  rotate: false
+  xy: 714, 1
+  size: 328, 1478
+  orig: 328, 1478
+  offset: 0, 0
+  index: -1
+gargoyle_high_run
+  rotate: false
+  xy: 1044, 1
+  size: 331, 1481
+  orig: 331, 1481
+  offset: 0, 0
+  index: -1
+gargoyle_medium_attack
+  rotate: false
+  xy: 1377, 1
+  size: 342, 1481
+  orig: 342, 1481
+  offset: 0, 0
+  index: -1
+gargoyle_medium_run
+  rotate: false
+  xy: 1721, 1
+  size: 319, 1478
+  orig: 319, 1478
+  offset: 0, 0
+  index: -1
