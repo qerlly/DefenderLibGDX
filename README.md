@@ -7,4 +7,4 @@ Required Android Version - and higher
 
 Defeat hordes of dragons in an epic defensive clash of forces of good and evil. Unlock all kinds of weapons, heroes and fight! Hordes of monsters are waiting for you, including fast goblins, merciless zombies, orcs, trolls, fire-breathing dragons and other epic creatures and bosses led by the main villain the Lord of darkness!
 Collect gold, unlock new weapons to repel the attacks of legendary monsters! Defend your ancient oak and destroy all the monsters in an epic clash of heroes and monsters!
-- [ V ] Android 
+- [*] Android 
